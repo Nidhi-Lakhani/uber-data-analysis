@@ -5,6 +5,3 @@ In this project, I have analyzed the Uber Pickups in New York City dataset for t
 First we import the data by month from April to September 2014 as given and then bind them to a single variable. After that, I have set the color vector for aesthetics and perfomed some data preproceesing like performing the appropriate formatting of Date.Time column. Then, we will proceed to create factors of time objects like day, month, year etc.
 
 Then finally we proceed towards Data Visualization by plotting various bar graphs and heatmaps of Trips by Month, trips by Days, by week days and month, etc. The last task is to create a map of New York visualizing the trips by months, bases and days.
-
-The updated dataset can be found at Kaggle https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city 
-and link for the dataset I used is at: https://drive.google.com/file/d/1emopjfEkTt59jJoBH9L9bSdmlDC4AR87/view
